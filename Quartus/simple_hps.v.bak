@@ -1,0 +1,5 @@
+module simple_hps
+(
+	input wire sw[9:0],
+	output wire led[9:0]
+);
